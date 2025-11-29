@@ -1,0 +1,27 @@
+=================================================
+           ÁLLÁSINTERJÚ FELKÉSZÍTŐ - CV ADATOK     
+=================================================
+
+--- SZEMÉLYES ÉS CÉL ADATOK ---
+Név: Kovács János
+Születési dátum: 1995.12.10
+Jelentkezett állás: IT Managger Magyar Posta
+
+--- TANULMÁNYOK ---
+  - Képzés/Intézmény: Általános iskola | Időpont: 2002-2010
+  - Képzés/Intézmény: Szakgimnázium/ IT hálózat technikus | Időpont: 2010-2015
+  - Képzés/Intézmény: BME - Mérnökinformatikus | Időpont: 2015-2020
+
+--- MUNKATAPASZTALATOK ---
+  - Cég/Pozíció: Yetttel ügyfélszolgálat | Időpont: 2021-2024
+
+--- ERŐSSÉGEK ---
+Kedves, szeretek ügyfelekkel foglalkozni, telefonálni, érdeklődöm az informatika iránt.
+
+--- GYENGESÉGEK ---
+Sokat beszélek, nem bírok megmaradni egy hejben
+
+--- JOGOSÍTVÁNYOK ---
+  - Nincs
+
+=================================================
